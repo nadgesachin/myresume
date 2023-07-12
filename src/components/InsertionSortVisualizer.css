@@ -1,0 +1,32 @@
+.main{
+    background-color: rgb(64, 83, 123);
+    height: auto;
+    width: fit-content;
+    display: flex;
+    align-items:flex-end;
+  }
+  button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  .sub{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  border-radius: 10px;
+  width: 40px;
+  margin: 5px;
+  background-color: #80568b;
+  border: 2px solid #f8f7f7;
+}

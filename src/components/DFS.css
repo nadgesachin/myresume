@@ -1,0 +1,38 @@
+
+
+
+.graph-container {
+    position: relative;
+    width: 100%;
+    height: 1000px;
+  }
+  
+  .graph-svg {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .graph-edge {
+    stroke: #000;
+    stroke-width: 2px;
+  }
+  
+  .graph-node {
+    fill: #00ff00;
+    stroke: #000;
+    stroke-width: 2px;
+    cursor: pointer;
+  }
+  
+  .graph-node.visited {
+    fill: #ff0000;
+  }
+  
+  .graph-node-text {
+    fill: #000;
+    text-anchor: middle;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+

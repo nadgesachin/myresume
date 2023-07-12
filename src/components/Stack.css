@@ -1,0 +1,40 @@
+.stack-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    margin: 0 auto;
+  }
+  
+  
+  .stack {
+    display: flex;
+    flex-direction: column-reverse; /* Reverse the column direction */
+    align-items: center;
+    border: 2px solid #333;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 50%;
+    min-height: 100px;
+  }
+  
+  .stack-empty {
+    color: #999;
+  }
+  
+  .stack-element {
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 100px;
+    text-align: center;
+  }
+  
+  .stack-buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  

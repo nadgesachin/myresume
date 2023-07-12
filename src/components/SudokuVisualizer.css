@@ -1,0 +1,30 @@
+.grid{
+    height: auto;
+    width: fit-content;
+}
+.row{
+    height: 60px;
+}
+input{
+    border-radius: 5px;
+    height: 60px;
+    width: 50px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }

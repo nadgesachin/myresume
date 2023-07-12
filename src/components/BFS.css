@@ -1,0 +1,31 @@
+ .graph-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .graph-svg {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .graph-node {
+    fill: #2ecc71;
+    stroke: #27ae60;
+    stroke-width: 2px;
+  }
+  
+  .graph-node-text {
+    fill: #fff;
+    font-size: 12px;
+    text-anchor: middle;
+    dominant-baseline: middle;
+  }
+  
+  .graph-edge {
+    stroke: #3498db;
+    stroke-width: 1px;
+  }
+   

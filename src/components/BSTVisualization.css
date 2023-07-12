@@ -1,0 +1,46 @@
+/* CSS for the Binary Search Tree */
+.BST {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* CSS for the individual nodes */
+.node {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+}
+
+.value {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+/* CSS for the edges */
+.edge {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.edge-line {
+  width: 2px;
+  background-color: black;
+}
+
+.edge-corner {
+  width: 10px;
+  height: 10px;
+  background-color: black;
+  transform: rotate(45deg);
+  margin-top: -5px;
+}
+
