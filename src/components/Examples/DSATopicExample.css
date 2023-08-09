@@ -1,0 +1,58 @@
+.dsa-topic-example {
+    margin-bottom: 20px;
+  }
+  
+  .dsa-topic-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .example-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .example-item {
+    border: 1px solid #ccc; 
+    padding: 20px;
+  }
+  
+  .example-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .example-description {
+    margin-bottom: 10px;
+  }
+
+  /* Optional styling to enhance code presentation */
+pre {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  code.cpp {
+    font-family: monospace;
+  }
+
+  .stack-explanation-button {
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .stack-explanation-button:hover {
+    background-color: #3272b1;
+  }
+  

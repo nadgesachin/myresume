@@ -20,9 +20,11 @@ const Queue = () => {
   };
 
   return (
+    
     <div className="parent-container">
     <div className="queue-container">
       <h2>Queue Data Structure</h2>
+      <center>
       <div className="queue">
         {queue.length === 0 ? (
           <div className="queue-empty">Queue is empty!</div>
@@ -34,12 +36,14 @@ const Queue = () => {
           ))
         )}
       </div>
+      </center>
       <div className="queue-buttons">
         <button onClick={enqueue}>Enqueue</button>
         <button onClick={dequeue}>Dequeue</button>
       </div>
     </div>
     </div>
+    
   );
 };
 

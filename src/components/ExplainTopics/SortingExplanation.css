@@ -1,0 +1,52 @@
+.sorting-explanation-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f5f5f5;
+    margin-bottom: 20px;
+  }
+  
+  .sorting-explanation-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .sorting-explanation-description {
+    margin-bottom: 15px;
+  }
+  
+  .sorting-explanation-subtitle {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .sorting-explanation-list {
+    margin-left: 30px;
+  }
+  
+  .sorting-explanation-list li {
+    margin-bottom: 10px;
+  }
+  
+  .sorting-explanation-performance {
+    margin-top: 20px;
+  }
+  
+  .stack-explanation-button {
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .stack-explanation-button:hover {
+    background-color: #3272b1;
+  }
+  /* Add any other additional styles as needed */
+  

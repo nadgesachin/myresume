@@ -1,0 +1,33 @@
+/* StringExplanation.css */
+
+.string-explanation-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 20px 0;
+  }
+  
+  .string-explanation-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .string-explanation-description {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .stack-explanation-button {
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .stack-explanation-button:hover {
+    background-color: #3272b1;
+  }
