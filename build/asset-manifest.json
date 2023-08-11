@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dsaVisual/static/css/main.581b6c8c.css",
+    "main.js": "/dsaVisual/static/js/main.4d8122c2.js",
+    "static/media/logo.jpeg": "/dsaVisual/static/media/logo.c5db38f1bca6957073b5.jpeg",
+    "index.html": "/dsaVisual/index.html",
+    "main.581b6c8c.css.map": "/dsaVisual/static/css/main.581b6c8c.css.map",
+    "main.4d8122c2.js.map": "/dsaVisual/static/js/main.4d8122c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.581b6c8c.css",
+    "static/js/main.4d8122c2.js"
+  ]
+}

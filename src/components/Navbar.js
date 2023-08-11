@@ -36,7 +36,6 @@ const Navbar = () => {
     return (
         <nav className="navbar">
             <div className="navbar-brand">
-            <img src={logo} alt="DSA Visualizer Logo" className="navbar-logo" />
                 <div className="navbar-heading">
                 <p className='navbar-heading-dsa'>DSA </p>
                 <p className='navbar-heading-visualiser'>Visualisation</p>
