@@ -20,13 +20,13 @@
 
 .navbar-logo {
     margin-bottom: 11px;
-    width: 50px;  /* or however large you want the logo to be */
+    width: 50px;  
     margin-right:5px;
-    border-radius: 50%; /* adds some space between the logo and the title */
+    border-radius: 50%; 
 }
 
 .navbar-links-container {
-    overflow-x: auto; /* Enable horizontal scrolling */
+    overflow-x: auto;
 }
 .navbar-heading {
     color: #fff;
