@@ -43,9 +43,9 @@ const Navbar = () => {
                 
             </div>
             <div ref={navbarLinksContainerRef} className="navbar-links-container">
-                <button className="navbar-scroll-btn navbar-scroll-right" onClick={scrollRight}>
+                {/* <button className="navbar-scroll-btn navbar-scroll-right" onClick={scrollRight}>
                     <img src='' alt="Right Arrow" />
-                </button>
+                </button> */}
                 <div className="navbar-links">
                     {links.map(link => (
                         <Link 
